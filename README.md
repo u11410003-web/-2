@@ -1,2 +1,4 @@
-# -2
-作業2
+註:因為一開始是使用cobab內建的gemini來生成程式，似乎關閉頁面後對話會消失，目前只剩下之後在gemini上對話的內容，
+在cobab的部分是命令AI將兩段example程式碼結合創作出我要的。後續根據作業題目的要求以及我的想法，命令AI生成出我想要的程式
+
+https://gemini.google.com/share/d/1UvEG2y7dtbvdD_vYIwm_ATF_c3mao2Ec?usp=sharing
